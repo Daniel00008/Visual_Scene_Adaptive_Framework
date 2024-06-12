@@ -1,5 +1,5 @@
 # Visual_Scene_Adaptive_Framework
-This repo is the MindSpore implementation of Visual_Scene_Adaptive_Framework. 
+This repo is the MindSpore implementation of the Large-scale Model-guided Visual Scene Adaptive Framework project. 
 
 The objective of this project is to enhance the practicality and generalization of large-scale visual pretraining models in various downstream application scenarios. By constructing adaptive and diversified network structures and learning methods, we aim to provide technical support and application demonstrations for building large-scale visual scene applications in open and complex environments. We explore the flexible adaptation capabilities of visual large-scale models to diverse downstream data in domains such as generalization in visual scenes [PDOC and FedGM], adaptive dynamic networks [PDOC], image restoration and enhancement [OutSampleRestoration and JCRNet], cross-task knowledge distillation [ProC-KD], and weakly supervised training [WS-VAD]. 
 
