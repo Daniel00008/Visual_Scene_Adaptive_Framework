@@ -15,9 +15,13 @@ First, a series of lightweight network structures are generated from an initial 
 ## 2 Paper
 
 [**PDOC**]: **[Prompt-Driven Dynamic Object-Centric Learning for Single Domain Generalization](http://arxiv.org/abs/2402.18447)** (CVPR 2024)
+
 [**OutSampleRestoration**]: **[Generalizing to Out-of-Sample Degradations via Model Reprogramming](https://scholar.google.com.hk/citations?hl=zh-CN&user=mD3lO60AAAAJ&view_op=list_works&sortby=pubdate)** (IEEE TIP)
+
 [**FedGM**]: **[Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization](https://arxiv.org/abs/2401.10272)** (AAAI 2024)
+
 [**WS-VAD**]: **[Weakly-Supervised Video Anomaly Detection with Snippet Anomalous Attention](https://ieeexplore.ieee.org/document/10381822)** (IEEE TCSVT)
+
 [**JCRNet**]: **[Joint Correcting and Refinement for Balanced Low-Light Image Enhancement](https://ieeexplore.ieee.org/document/10376299)** (IEEE TMM)
 
 
